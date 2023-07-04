@@ -10,8 +10,8 @@ import os
 from python_weather.enums import Kind
 from spotipy.oauth2 import SpotifyOAuth
 
-CLIENT_ID = "ce931c51bc334b5288daa5e5ba897d5a"
-CLIENT_SECRET = "26fb987dce6d4294ae77d5da59ab2a73"
+CLIENT_ID = "418d3d088ba34fcf925e30167643f1a0"
+CLIENT_SECRET = "eb365dbf1cfb43efa902bdaf8ada9463"
 
 async def getweather(location):
     async with python_weather.Client(unit=python_weather.METRIC) as client:
