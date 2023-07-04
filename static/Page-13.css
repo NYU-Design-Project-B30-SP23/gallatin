@@ -27,7 +27,7 @@
 }
 
 .u-section-1 {
-  background-image: url("images/fw.jpg");
+  background-image: url("./images/fw.jpg");
   background-position: 50% 50%;
   min-height: 621px;
 }
